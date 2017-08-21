@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Http;
 
-namespace Fiver.Asp.HelloMiddleware
+namespace Fiver.Asp.Middleware
 {
     public static class RunMiddlewareExtensions
     {

@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using System.Threading.Tasks;
 
-namespace Fiver.Asp.HelloMiddleware
+namespace Fiver.Asp.Middleware
 {
     public static class UseMiddlewareExtensions
     {
